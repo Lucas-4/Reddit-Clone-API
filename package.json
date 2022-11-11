@@ -1,0 +1,35 @@
+{
+  "name": "reddit-clone-api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cookie": "^0.5.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.20",
+    "path": "^0.12.7",
+    "promise-mysql": "^5.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucas-4/Reddit-Clone-API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Lucas-4/Reddit-Clone-API/issues"
+  },
+  "homepage": "https://github.com/Lucas-4/Reddit-Clone-API#readme",
+  "description": ""
+}
