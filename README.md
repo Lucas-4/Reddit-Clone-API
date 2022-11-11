@@ -12,7 +12,7 @@ And here is the repository of the Frontend:https://github.com/Lucas-4/Reddit-Clo
 Signup and Login <br>
 JWT Authentication <br>
 Home page with posts that can be sorted by random, new or top <br>
-Upvotr and downvote posts <br>
+Upvote and downvote posts <br>
 Create, edit and delete posts <br>
 
 
