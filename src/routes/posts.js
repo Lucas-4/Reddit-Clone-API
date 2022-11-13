@@ -32,7 +32,6 @@ router.post('/posts', auth(), async (req, res) => {
         await post.save();
         res.send(post);
     } catch (e) {
-        console.log(e)
         res.status(400).send(validation);
     }
 })
