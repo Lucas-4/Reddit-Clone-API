@@ -19,4 +19,7 @@ Create, edit and delete posts <br>
 ## Upcoming Features
 Add comments <br>
 Create subreddits <br>
+Add moderation to subreddits <br>
+Upload profile images <br>
+Upload images and videos for posts <br>
 
